@@ -1,0 +1,3 @@
+rootProject.name = 'a_way_3997'
+
+include ':app'
